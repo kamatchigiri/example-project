@@ -6,3 +6,4 @@ ruby
 javascript
 rust
 hadoop
+Cassandra
